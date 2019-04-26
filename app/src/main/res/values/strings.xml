@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To Do List</string>
+
+    <string name="action_insert_dummy_data">Insert Test Task</string>
+
+    <string name="action_delete_all_entries">Clear All Tasks</string>
+
+    <string name="editor_activity_title_new_pet">Add a new Task</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="action_delete">Delete</string>
+
+</resources>
