@@ -11,7 +11,7 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
         <TextView
-            android:text="To Do Task"
+            android:text="Edit To Do Task"
             style="@style/CategoryStyle" />
         <LinearLayout
             android:layout_height="wrap_content"
@@ -20,7 +20,7 @@
             android:paddingLeft="4dp"
             android:orientation="vertical">
             <EditText
-                android:id="@+id/edit_task"
+                android:id="@+id/edit_task_EditSavedActivity"
                 android:hint="task"
                 android:inputType="textCapWords"
                 style="@style/EditorFieldStyle" />
